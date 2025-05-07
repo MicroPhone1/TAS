@@ -6,7 +6,7 @@ export default function InventoryDashboardPage() {
       title="Inventory Dashboard"
       icon="📦"
       url="https://app.powerbi.com/view?r=eyJrIjoiZTA2YzViZDYtZmIwYS00Y2QzLWJlY2QtMWYxOGVjZjljNzI0IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
-      refreshInterval={1000} 
+      refreshInterval={60000} 
     />
   )
 }

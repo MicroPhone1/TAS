@@ -6,7 +6,7 @@ export default function OperationDashboardPage() {
       title="Operation Dashboard"
       icon="⚙️"
       url="https://your-powerbi-operation-url.com"
-      refreshInterval={1000} 
+      refreshInterval={60000} 
     />
   )
 }
