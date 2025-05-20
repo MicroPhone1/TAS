@@ -5,7 +5,7 @@ export default function FinancialDashboardPage() {
     <DashboardFrame
       title="Financial Dashboard"
       icon="💰"
-      url="https://app.powerbi.com/view?r=eyJrIjoiMmQ3MTgyNDQtMzI5NC00MWQ0LTk5OWEtODYzMjRlYzA5ODg3IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D&pageName=b6db90cd6dc4c76800a6"
+      url="https://app.powerbi.com/view?r=eyJrIjoiMDMwMzY3Y2ItZmU0Yi00YjQ2LTk3MjAtNTY0MDIxN2Q4YzMyIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
       refreshInterval={60000} 
     />
   )

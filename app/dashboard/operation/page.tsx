@@ -5,7 +5,7 @@ export default function OperationDashboardPage() {
     <DashboardFrame
       title="Operation Dashboard"
       icon="⚙️"
-      url="https://your-powerbi-operation-url.com"
+      url="https://app.powerbi.com/view?r=eyJrIjoiODk3NjAyOGUtZGQ4NC00ZTc1LTgzYjktYTEwNDI2NGQ5ZmQ0IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"
       refreshInterval={60000} 
     />
   )
